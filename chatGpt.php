@@ -7,7 +7,7 @@ $iMaxTokens = 300;
 $top_p = 1;
 $frequency_penalty = 0.0;
 $presence_penalty = 0.0;
-$OPENAI_API_KEY = "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";
+$OPENAI_API_KEY = "your_api_key";
 $sModel = "text-davinci-002";
 // type ur question here u can
 $prompt = $_GET['qst'];
